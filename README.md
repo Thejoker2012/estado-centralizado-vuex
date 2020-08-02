@@ -1,4 +1,6 @@
-# gerenciador
+# Lista de tarefas
+
+Lista de tarefas com vue e gerenciamento de estado com vuex
 
 ## Project setup
 ```
